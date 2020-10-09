@@ -6,11 +6,11 @@ export default function LoginScreen(){
     return(
         <View style={styles.container} >
     <Text>
-    Login screen
+    Shraddah kapoor
     </Text>
 
-    <Button title="click here" 
-        onPress={()=>alert('clicked')}
+    <Button title="click matt krna" 
+        onPress={()=>alert('madarchod bole the click matt krna')}
     />
         </View>
     )

@@ -20,7 +20,7 @@ export default function LoginScreen(){
     style={{marginLeft:18,marginRight:18,marginTop:20}}
      />
 
-    <Button title="click  NAHI krna" 
+    <Button title="click  ffffffff NAHI krna" 
         onPress={()=>alert('bsdk bole the click matt krna')}
     />
         </View>
